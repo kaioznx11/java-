@@ -1,4 +1,4 @@
-<h1 align="center">☕✨ My First Java Code ✨☕</h1>
+<h1 align="center">☕ My First Java Code ☕</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-Beginner-orange?style=for-the-badge&logo=java">
@@ -9,32 +9,32 @@
 
 ## 🚀 About the Project
 
-🎉 This is **my first Java code**  
-📚 I have been studying **Java for 1 week**  
-🎥 Learning through **YouTube tutorials**  
+ This is **my first Java code**  
+ I have been studying **Java for 1 week**  
+ Learning through **YouTube tutorials**  
 
 This project was created to practice **data input, variables, and console output** using the **Java** programming language.
 
 ---
 
-## 🧠 What I’ve learned so far
+##  What I’ve learned so far
 
-✅ Variables (`String`, `int`, `char`)  
-✅ User input with `Scanner`  
-✅ Output with `System.out.println`  
-✅ Basic structure of a Java program  
-
----
-
-## 💻 Technologies Used
-
-- ☕ **Java**
-- 📝 **VS Code / Java IDE**
-- 🎥 **YouTube**
+ Variables (`String`, `int`, `char`)  
+ User input with `Scanner`  
+Output with `System.out.println`  
+ Basic structure of a Java program  
 
 ---
 
-## 🌱 Next Steps
+##  Technologies Used
+
+-  **Java**
+-  **VS Code / Java IDE**
+-  **YouTube**
+
+---
+
+##  Next Steps
 
 - 🔹 Learn decision structures (`if/else`)
 - 🔹 Learn loops (`for`, `while`)
@@ -44,9 +44,9 @@ This project was created to practice **data input, variables, and console output
 ---
 
 <p align="center">
-  ✨ <b>Every programmer was a beginner once.</b> ✨  
+   <b>Every programmer was a beginner once.</b>   
 </p>
 
 <p align="center">
-  🔥 <i>First code of many!</i> 🔥  
+   <i>First code of many!</i> 🔥 
 </p>
