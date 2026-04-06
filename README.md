@@ -1,13 +1,12 @@
-<h1 align="center">☕ My First Java Code ☕</h1>
+<h1 align="center">Java</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-Beginner-orange?style=for-the-badge&logo=java">
   <img src="https://img.shields.io/badge/Status-Learning-blue?style=for-the-badge">
 </p>
 
----
 
-## 🚀 About the Project
+##  About the Project
 
  This is **my first Java code**  
  I have been studying **Java for 1 week**  
@@ -15,7 +14,6 @@
 
 This project was created to practice **data input, variables, and console output** using the **Java** programming language.
 
----
 
 ##  What I’ve learned so far
 
@@ -24,7 +22,6 @@ This project was created to practice **data input, variables, and console output
 Output with `System.out.println`  
  Basic structure of a Java program  
 
----
 
 ##  Technologies Used
 
@@ -32,7 +29,6 @@ Output with `System.out.println`
 -  **VS Code / Java IDE**
 -  **YouTube**
 
----
 
 ##  Next Steps
 
@@ -41,7 +37,6 @@ Output with `System.out.println`
 - 🔹 Build bigger projects
 - 🔹 Improve every day 🚀
 
----
 
 <p align="center">
    <b>Every programmer was a beginner once.</b>   
